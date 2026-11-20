@@ -1,0 +1,17 @@
+
+# Historial anterior
+.git_historial_anterior/
+
+# Credenciales y archivos locales
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.log
+
+# Bases SQLite con objetos LFS no disponibles
+API_SUNAT/API_MAPS/clientes_direcciones/direcciones_preparadas_google_masivo.sqlite
+API_SUNAT/API_MAPS/clientes_direcciones/direcciones_preparadas_google_masivo_v5_inei.creando.sqlite
+API_SUNAT/API_MAPS/clientes_direcciones/direcciones_preparadas_google_masivo_v5_inei.sqlite
+API_SUNAT/API_MAPS/clientes_direcciones/optimizacion_5dias/plan_5dias.sqlite

@@ -1,0 +1,20 @@
+{
+  "input_csv": "D:\\API_SUNAT\\API_SUNAT\\archivos_ruc\\final_results_completo_reducido.csv",
+  "total_filas": 313872,
+  "direcciones_unicas": 303920,
+  "max_variantes": 18,
+  "laptop_1": {
+    "desde": 1,
+    "hasta": 156936,
+    "sentido": "ASC",
+    "cantidad": 156936
+  },
+  "laptop_2": {
+    "desde": 313872,
+    "hasta": 156937,
+    "sentido": "DESC",
+    "cantidad": 156936
+  },
+  "archivo_sqlite": "D:\\API_SUNAT\\API_SUNAT\\API_MAPS\\direcciones_preparadas_google_masivo.sqlite",
+  "archivo_csv": "D:\\API_SUNAT\\API_SUNAT\\API_MAPS\\direcciones_preparadas_google_masivo.csv"
+}

@@ -1,0 +1,22 @@
+{
+  "input_csv": "D:\\API_SUNAT_BK\\API_SUNAT\\direcciones.csv",
+  "total_filas": 159459,
+  "registros_originales": 284345,
+  "sin_direccion": 124886,
+  "direcciones_unicas": 153417,
+  "max_variantes": 18,
+  "laptop_1": {
+    "desde": 1,
+    "hasta": 79730,
+    "sentido": "ASC",
+    "cantidad": 79730
+  },
+  "laptop_2": {
+    "desde": 159459,
+    "hasta": 79731,
+    "sentido": "DESC",
+    "cantidad": 79729
+  },
+  "archivo_sqlite": "D:\\API_SUNAT_BK\\API_SUNAT\\API_MAPS\\clientes_direcciones\\direcciones_preparadas_google_masivo.sqlite",
+  "archivo_csv": "D:\\API_SUNAT_BK\\API_SUNAT\\API_MAPS\\clientes_direcciones\\direcciones_preparadas_clientes.csv"
+}

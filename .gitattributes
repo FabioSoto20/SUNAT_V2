@@ -1,0 +1,11 @@
+/API_SUNAT/API_MAPS/clientes_direcciones/clientes_base_geografica_corregida.csv filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/clientes_direcciones/clientes_base_geografica_provisional.csv filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/clientes_direcciones/direcciones_preparadas_clientes.csv filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/clientes_direcciones/direcciones_preparadas_google_masivo.sqlite filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/clientes_direcciones/direcciones_preparadas_google_masivo_v5_inei.creando.sqlite filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/clientes_direcciones/direcciones_preparadas_google_masivo_v5_inei.sqlite filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/clientes_direcciones/optimizacion_5dias/plan_5dias.sqlite filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/direcciones_preparadas_google_masivo.csv filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/direcciones_preparadas_google_masivo.sqlite filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/direcciones_preparadas_v3.csv filter=lfs diff=lfs merge=lfs -text
+/API_SUNAT/API_MAPS/output/01_direcciones_preparadas.csv filter=lfs diff=lfs merge=lfs -text
